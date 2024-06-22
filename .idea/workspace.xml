@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c136bff-6f4b-4c3f-a791-9f9169e97463" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVAQA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW1JAVAQA/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW1JAVAQA/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW1_2JAVAQA/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW1_2JAVAQA/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON1/ExsempleStudent/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON1/ExsempleStudent/StudentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON1/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/Dogs/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/Dogs/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/Dogs/ExampleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/Dogs/SmallDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/TtansferApp/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/TtansferApp/BankTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/TtansferApp/FakeBankTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/hierarhy/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/hierarhy/AnimalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/hierarhy/OceanAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LESSON2/hierarhy/WaterAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hrSzz3laQNDfjCWSp0lxsbMO68" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalApp.executor": "Run",
+    "Application.BankApp.executor": "Run",
+    "Application.ExampleApp.executor": "Run",
+    "Application.HW1_2JAVAQA.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "Application.StudentApp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BankApp">
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LESSON2.hierarhy.AnimalApp" />
+      <module name="JAVAQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LESSON2.hierarhy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LESSON2.TtansferApp.BankApp" />
+      <module name="JAVAQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LESSON2.TtansferApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LESSON2.Dogs.ExampleApp" />
+      <module name="JAVAQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LESSON2.Dogs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW1_2JAVAQA.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW1_2JAVAQA.Main" />
+      <module name="JAVAQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW1_2JAVAQA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW1_2JAVAQA.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW1_2JAVAQA.Main" />
+      <module name="JAVAQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW1_2JAVAQA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LESSON1.ExsempleStudent.StudentApp" />
+      <module name="JAVAQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LESSON1.ExsempleStudent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BankApp" />
+        <item itemvalue="Application.ExampleApp" />
+        <item itemvalue="Application.AnimalApp" />
+        <item itemvalue="Application.HW1_2JAVAQA.Main" />
+        <item itemvalue="Application.HW1_2JAVAQA.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c136bff-6f4b-4c3f-a791-9f9169e97463" name="Changes" comment="" />
+      <created>1718350975476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718350975476</updated>
+    </task>
+    <servers />
+  </component>
+</project>
